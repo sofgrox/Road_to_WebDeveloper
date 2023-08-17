@@ -9,3 +9,6 @@ https://github.com/sofgrox/Learn_JavaScript
 
 ### Steep 3: GIT
 https://github.com/sofgrox/Learn_git
+
+### UTILS:
+https://github.com/sofgrox/Glossary_WebDevelopment
